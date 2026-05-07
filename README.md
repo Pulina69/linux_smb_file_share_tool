@@ -32,7 +32,7 @@ python3 smb_manager_ui.py
 
 # smb add to shell if you like to use termian and use smb with simple commands
 
-# add-samba-functions installer
+## add-samba-functions installer
 
 What this does
 - Detects the current login shell (bash or zsh).
